@@ -1,5 +1,5 @@
 help([[
-Load environment to build prepobs on Orion
+Load environment to build prepobs on Hercules
 ]])
 
 prepend_path("MODULEPATH", "/work/noaa/epic/role-epic/spack-stack/hercules/spack-stack-1.6.0/envs/gsi-addon-env/install/modulefiles/Core")
