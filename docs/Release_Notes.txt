@@ -98,7 +98,7 @@ MODULEFILES
 SCRIPTS CHANGES
 
   scripts/exprep_post.sh
-  Add functionality to unrestrict aircraft data, this feature is meant to be used in development environmet
+  Add functionality to unrestrict aircraft data, this feature is meant to be used in development environments
 
 SOURCE CHANGES
 
