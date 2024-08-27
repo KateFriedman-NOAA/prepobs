@@ -262,7 +262,7 @@ CENTERED ON $cdate10"
     Note 4: In array IMASK_T29, a value of "99999" means not applicable whereas
             a value of "000" means reports in all dump report types in the
             corresponding Table A entry in MSG_MASKA should be considered {in 
-	    this case IMASK_T29(1,x) would be set to 000 and IMASK_T29(2:10,x)
+            this case IMASK_T29(1,x) would be set to 000 and IMASK_T29(2:10,x)
             should be set to 99999 for all reports in Table A entry
             MSG_MASKA(x) since they would all be ignored - this is the default
             for all Table A entries MSG_MASKA(1:20) if this switch is not set
