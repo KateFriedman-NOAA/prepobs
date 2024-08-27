@@ -11,7 +11,7 @@ PRELUDE
           - *uprair* data is added to prepbufr files,to the prepbufr's ADPUPA component
  prepobs.v1.1.0 adds *uprair* to prepbufr's ADPUPA component
 
- The prepobs post step adds capability to unrestrict aircraft data (on demand, by default PROCESS_REMOREST_dm2=NO)
+ The prepobs post step adds the capability to unrestrict aircraft data (on demand, by default PROCESS_REMOREST_dm2=NO)
 
 FILE CHANGES
 
