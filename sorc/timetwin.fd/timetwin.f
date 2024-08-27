@@ -129,7 +129,6 @@ C     FIND SUBSET 'ADPUPA' ...
       ENDIF                                                                     
 
 C     SPLIT DATE UP INTO COMPONENTS
-                                                                                      
       WRITE (CDATE, '(I10)')  IDATE      
       CDAT8(1:8)=CDATE(3:10)                                        
       READ  (CDATE, '(5I2)') IIDATE                                             
